@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tic tac toe</string>
+
+    <string name="hello_world">TICTACTOE</string>
+    <string name="action_settings">Settings</string>
+    <string name="s1">TICTACTOE-The Game</string>
+    <string name="s3">1)2 player game</string>
+</resources>
